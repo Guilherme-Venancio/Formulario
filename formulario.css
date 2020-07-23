@@ -1,0 +1,60 @@
+body{
+    padding: 0px;
+    margin: 10px;
+}    
+form{
+    font-family: Arial;
+    border: groove 1px;
+    text-align: justify;
+    margin-left: 0px;
+    margin-top:00px;
+    background-color: rgb(218, 216, 214);
+    }
+input {
+    margin: 10px;
+    width: 225px;
+    height: 30px;
+    position: relative;
+}
+input:hover , textarea:hover{
+    background-color: #f1e9e9;
+}
+input#ifoto{
+    margin: 20px;
+    margin-bottom: 50px;
+}input#ifoto:hover{background-color: white;}
+select{
+    margin: 20px;
+}
+fieldset{
+    border: groove 1px;    
+}
+label#bi{
+    text-align: center;
+}
+textarea{
+    width: 300px;
+    margin-bottom: 20px;
+}
+input#inome{
+    left: px;
+}
+input#icpf{
+   left: 18px;
+   margin-top: 2px;
+}
+input#isexo{
+    width: 13px;
+}
+input#icheck{
+    width: 15px;
+    top: 10px;
+}
+textarea{
+   width: 400px;
+   height:200px ;
+   font-size: 19px;
+}
+img{
+    margin-bottom: 50px;
+    margin-top: 0px;}
